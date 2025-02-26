@@ -1,4 +1,4 @@
-import requests
+#import requests
 import json
 from oauthlib.oauth2 import LegacyApplicationClient
 from requests_oauthlib import OAuth2Session
